@@ -4,7 +4,7 @@ This project was made for an art installation for our Computer Science Projects 
 
 ## Updates
 2/10/18
-* Neopixels can be programmed individually, accelerometer data prints in console, but the values don't change (so the data isn't helpful and probably is wrong)
+* Neopixels can be programmed individually; accelerometer data prints in console, but the values don't change (so the data isn't helpful and probably is wrong)
 
 ## Authors
 
