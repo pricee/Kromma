@@ -8,10 +8,10 @@ This project was made for an art installation for our Computer Science Projects 
 * 3x Adafruit RGB Smart Neopixels v2
 
 ## Updates
-2/10/18.
-* Neopixels can be programmed individually; accelerometer data prints in console, but the values don't change (so the data isn't helpful and probably is wrong)
-3/8/18.
-* Neopixels change color when accelerometer detects motion
+* 2/10/18
+  * Neopixels can be programmed individually; accelerometer data prints in console, but the values don't change (so the data isn't helpful and probably is wrong)
+* 3/8/18
+  * Neopixels change color when accelerometer detects motion
 
 ## Authors
 
