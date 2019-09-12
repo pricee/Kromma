@@ -1,6 +1,6 @@
 # Kromma
 
-This project was made for an art installation for our Computer Science Projects Honors/Art and Technology Class. The installation consisted of inflatable, light-up beach balls that changed color according to acceleration. Currently, this is a work in progress :)
+This project was made for an art installation for our Computer Science Projects Honors/Art and Technology Class. The installation consisted of inflatable, light-up beach balls that changed color according to acceleration contained within a dark, geodesic dome. In addition, within the dome, there were live animations that responded to sound/music being produced.
 
 ## Materials
 * 1x Adafruit Feather 32u4 Basic Proto or 328p
