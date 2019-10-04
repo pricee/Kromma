@@ -16,6 +16,31 @@ This project was made for an art installation for our Computer Science Projects 
   * Lights now change in a gradient instead of preset values
   * Added multiple color options
 
+## Screenshots
+All six beach balls with the KROMMA team!
+
+<img src="team.jpg" width="500">
+
+
+Action shot of beach ball
+
+<img src="action.jpg" width="500">
+
+
+Additional elements of the installation
+
+<img src="projections.jpg" width="500">
+
+
+Model dome
+
+<img src="model.jpg" width="500">
+
+
+Constructing the dome
+
+<img src="construction1.jpg" width="500"><img src="construction2.jpg" width="500">
+
 ## Authors
 
 * **Emma Price**
