@@ -16,7 +16,7 @@ This project was made for an art installation for our Computer Science Projects 
   * Lights now change in a gradient instead of preset values
   * Added multiple color options
 
-## Screenshots
+## Pictures
 All six beach balls with the KROMMA team!
 
 <img src="team.jpg" width="500">
