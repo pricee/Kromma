@@ -49,6 +49,7 @@ Constructing the dome
 
 ## Acknowledgments
 
-* Dr Kessner for his patience in teaching us how to program Arduinos and solder
+* Dr Kessner for his patience in teaching us how to program Arduino components and solder
 * Pinterest for giving us many ridiculous ideas
-* Marlborough STEM department for giving us the money to build this art installation
+* Marlborough STEM department for supporting all our aspirations and giving us the seemingly bottomless money to build this art installation
+* All the people that attended our installation openning! You guys were all so excited and enthusiastic, and we were really flattered by all the compliments <3
